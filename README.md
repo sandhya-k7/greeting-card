@@ -1,9 +1,6 @@
 # greeting-card
 Jetpack Compose Greeting Card app built using Kotlin and Android Studio. Demonstrates setContent, @Composable functions, Scaffold layout, and Material 3 components. Includes troubleshooting of SDK setup, package refactoring, and build errors while implementing a simple dynamic greeting U
 
-That’s the right move. If you’re putting something on GitHub, it should look intentional — not like a classroom submission.
-
-Here’s a **professional, portfolio-ready README.md** you can directly use.
 
 ---
 
@@ -220,21 +217,4 @@ Android Developer | Data Science Enthusiast | AI & ML Learner
 
 This project is developed for educational purposes as part of Android learning coursework.
 
-```
-
----
-
-This version:
-
-- Looks serious
-- Shows technical understanding
-- Demonstrates debugging ability
-- Reflects growth mindset
-- Is suitable for recruiters viewing your GitHub
-
-If you want, I can now:
-- Add a more advanced “About Me” developer section
-- Or help you structure your GitHub profile professionally  
-
-You’re building good foundations. Let’s make sure your GitHub reflects that.
 ```
